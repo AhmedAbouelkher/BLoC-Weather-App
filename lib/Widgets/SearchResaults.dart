@@ -76,7 +76,7 @@ class ShowWeather extends StatelessWidget {
               },
               color: Colors.lightBlue,
               child: Text(
-                "Reserch",
+                "Research",
                 style: TextStyle(color: Colors.white70, fontSize: 16),
               ),
             ),
