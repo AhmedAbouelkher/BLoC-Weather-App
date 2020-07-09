@@ -1,4 +1,4 @@
-[![Actions Status](https://github.com/{owner}/{repo}/workflows/{workflow_name}/badge.svg)](https://github.com/{owner}/{repo}/actions)
+[![Actions Status](https://github.com/{AhmedAbouelkher}/{BLoC-Weather-App}/workflows/{workflow_name}/badge.svg)](https://github.com/{AhmedAbouelkher}/{BLoC-Weather-App}/actions)
 
 # BLoC Weather App
 
