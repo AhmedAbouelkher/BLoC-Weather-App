@@ -1,5 +1,7 @@
 # BLoC Weather App
 
+[![Actions Status](https://github.com/{AhmedAbouelkher}/{BLoC-Weather-App}/workflows/{Actions.yaml}/badge.svg)](https://github.com/{AhmedAbouelkher}/{BLoC-Weather-App}/actions)
+
 A demo flutter app to display weather data for any city with [Flare animation](https://rive.app/a/ArkangelB/files/flare/worldspin/preview "Flare animation") in which I used BLoC for state management with MVC.
 
 <img src="https://i.ytimg.com/vi/fIY3TU9ORZI/maxresdefault.jpg" alt="Flutter">
