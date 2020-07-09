@@ -1,5 +1,3 @@
-[![Actions Status](https://github.com/{AhmedAbouelkher}/{BLoC-Weather-App}/workflows/{workflow_name}/badge.svg)](https://github.com/{AhmedAbouelkher}/{BLoC-Weather-App}/actions)
-
 # BLoC Weather App
 
 [![Actions Status](https://github.com/{AhmedAbouelkher}/{BLoC-Weather-App}/workflows/{Actions.yaml}/badge.svg)](https://github.com/{AhmedAbouelkher}/{BLoC-Weather-App}/actions)
