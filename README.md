@@ -1,3 +1,5 @@
+[![Actions Status](https://github.com/{owner}/{repo}/workflows/{workflow_name}/badge.svg)](https://github.com/{owner}/{repo}/actions)
+
 # BLoC Weather App
 
 A demo flutter app to display weather data for any city with [Flare animation](https://rive.app/a/ArkangelB/files/flare/worldspin/preview "Flare animation") in which I used BLoC for state management with MVC.
